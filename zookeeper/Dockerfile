@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/etcd-amd64:2.2.5
+FROM gcr.io/google-containers/kubernetes-zookeeper:1.0-3.4.10
